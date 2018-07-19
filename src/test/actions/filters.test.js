@@ -19,4 +19,4 @@ test('should generate set end date action object', () => {
     })
 })
 
-
+test('should generate set filter object with text value')
